@@ -8,7 +8,7 @@ The only limitation is your creativity - and a webcam!
 
 The organization houses all the related technologies, libraries and the Vignette application itself, along with our community processes and the roadmap. 
 
-Vignette follows a open development model, where anyone can participate in the development itself and contribute their part into the project.
+Vignette follows an open development model, where anyone can participate in the development itself and contribute their part into the project.
 
 ## Ways to Contribute
 
